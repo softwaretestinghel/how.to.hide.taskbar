@@ -1,6 +1,6 @@
 # how to hide taskbar
 
-[![how to hide taskbar](gett-stateed.png)](https://github.com/softwaretestinghel/how.to.hide.taskbar/)
+[![how to hide taskbar](gett-stateed.png)](https://icncomputer.com/how-to-hide-taskbar/)
 
 You can hide the taskbar both in desktop mode and tablet mode. Press and hold or right-click any empty space on the taskbar, select Taskbar settings, select Taskbar behaviors, and select Automatically hide the taskbar.
 
